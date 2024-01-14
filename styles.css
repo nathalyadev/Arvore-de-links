@@ -1,0 +1,72 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #fff;
+    margin-top: 1em;
+}
+
+.my-informations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+.my-informations span {
+    font-size: 1.125em;
+}
+
+.my-informations .logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.my-informations .logo img {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: calc(100vh - 210px);
+}
+
+main ul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 1.875em;
+
+}
+
+main ul a {
+    background-color: var(--background-list);
+    color: var(--color-list);
+    width: 70%;
+    border-radius: 6px;
+
+    padding: 0.875em;
+    font-size: 1.25em;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+main ul a:hover {
+    background-color: var(--hover-list);
+    color: #fff;
+}
+
+footer {
+    color: #fff;
+
+    position: fixed;
+    bottom: 0;
+    padding: 1em;
+    z-index: 0;
+}
