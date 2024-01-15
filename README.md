@@ -1,3 +1,7 @@
+## :camera: Layout do projeto
+
+![alt](https://github.com/nathalyadev/Arvore-de-links/blob/main/src/assets/home.png)
+
  <div align="center">
  <p>
     <a href="https://github.com/nathalyadev/awesome-readme-template/graphs/contributors">
@@ -24,10 +28,6 @@
         <a target="_blank" href="https://nathalyadev.github.io/Arvore-de-links/">View Demo</a>
       <span> · </span>
     </h4></div>
-
-## :camera: Layout do projeto
-
-![alt](https://github.com/nathalyadev/Arvore-de-links/blob/src/assets/home.png)
 
 ## :space_invader: Tecnologias utilizadas
 
